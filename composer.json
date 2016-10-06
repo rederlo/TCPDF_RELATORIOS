@@ -1,0 +1,12 @@
+{
+    "name": "root/relatorios",
+    "authors": [
+        {
+            "name": "Ederlo Rodrigo de Oliveira",
+            "email": "ederlo.contato@gmail.com"
+        }
+    ],
+    "require": {
+        "tecnickcom/tcpdf": "^6.2"
+    }
+}
